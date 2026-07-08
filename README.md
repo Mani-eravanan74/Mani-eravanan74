@@ -20,8 +20,8 @@ I am a creative and focused **MERN Stack Developer** dedicated to building moder
 
 I bridge the gap between frontend design and backend architecture, ensuring seamless data integration and exceptional user experiences.
 
-- ⚡ **Fun fact:** I'm always looking for ways to optimize database queries and make page transitions smoother.
-- 🎓 **Focus:** Currently engineering scalable RESTful architectures and refining my component design systems.
+* ⚡ **Fun fact:** I'm always looking for ways to optimize database queries and make page transitions smoother.
+* 🎓 **Focus:** Currently engineering scalable RESTful architectures and refining my component design systems.
 
 ---
 
@@ -34,12 +34,14 @@ I bridge the gap between frontend design and backend architecture, ensuring seam
 
 ---
 
-### 🎯 Current Focus & Opportunities
+### 🌐 Featured Projects
 
-* 💼 **Actively Seeking Roles:** Open to **MERN Stack Developer**, **Full Stack Developer**, or **React Developer** positions.
-* 📈 **Continuous Learning:** Constantly building performance-focused applications to sharpen my engineering skills.
+*   **[Project Name]** — [Brief 1-line description of what it does]
+    *   *Tech Stack:* React, Node.js, Express, MongoDB, Tailwind CSS
+    *   [🔗 Live Demo] | [💻 GitHub Repo]
 
 ---
+
 ### 🛠️ My Technical Toolbox
 
 <div align="center">
@@ -60,7 +62,7 @@ I bridge the gap between frontend design and backend architecture, ensuring seam
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" style="border-radius: 10px; margin: 4px;" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="border-radius: 10px; margin: 4px;" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="border-radius: 10px; margin: 4px;" />
-<img src="https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" style="border-radius: 10px; margin: 4px;" />
+<img src="https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=json&logoColor=white" alt="REST API" style="border-radius: 10px; margin: 4px;" />
 
 #### 🧰 Tools & Systems
 
@@ -71,9 +73,10 @@ I bridge the gap between frontend design and backend architecture, ensuring seam
 
 </div>
 
+---
 
 <div align="center">
-### 🤝 Let's Connect
+🤝 Let's Connect
  
 <a href="mailto:manikandaneravanan04@gmail.com">
   <img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
