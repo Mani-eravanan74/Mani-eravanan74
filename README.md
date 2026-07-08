@@ -6,21 +6,9 @@
 
 # 🚀 Hi there, I'm Manikandan E! 👋
 
-### **MERN Stack Developer | Full Stack Engineer | React Specialist**
+### **MERN Stack Developer | Full Stack Engineer **
 
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ECC71?style=for-the-badge" alt="Open to Work" style="border-radius: 16px; margin: 4px;" />
-
-<p align="center">
-  <a href="mailto:manikandaneravanan04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-manikandaneravanan04%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius: 16px; margin: 4px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/manikandaneravanan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 16px; margin: 4px;" />
-  </a>
-  <a href="https://github.com/manikandaneravanan">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius: 16px; margin: 4px;" />
-  </a>
-</p>
 
 </div>
 
@@ -37,6 +25,21 @@ I bridge the gap between frontend design and backend architecture, ensuring seam
 
 ---
 
+### 🔥 Core Expertise
+
+* 🚀 **Full-Stack Architecture** — Seamlessly connecting interactive React frontends with robust Node.js/Express backends.
+* 📦 **Component Design** — Architecting reusable, clean, and highly optimized React components.
+* ⚡ **API Engineering** — Designing secure, scalable, and efficient RESTful APIs integrated with MongoDB.
+* 📱 **Responsive UI/UX** — Writing pixel-perfect interfaces tailored for a flawless experience across all device sizes.
+
+---
+
+### 🎯 Current Focus & Opportunities
+
+* 💼 **Actively Seeking Roles:** Open to **MERN Stack Developer**, **Full Stack Developer**, or **React Developer** positions.
+* 📈 **Continuous Learning:** Constantly building performance-focused applications to sharpen my engineering skills.
+
+---
 ### 🛠️ My Technical Toolbox
 
 <div align="center">
@@ -67,23 +70,6 @@ I bridge the gap between frontend design and backend architecture, ensuring seam
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="border-radius: 10px; margin: 4px;" />
 
 </div>
-
----
-
-### 🔥 Core Expertise
-
-* 🚀 **Full-Stack Architecture** — Seamlessly connecting interactive React frontends with robust Node.js/Express backends.
-* 📦 **Component Design** — Architecting reusable, clean, and highly optimized React components.
-* ⚡ **API Engineering** — Designing secure, scalable, and efficient RESTful APIs integrated with MongoDB.
-* 📱 **Responsive UI/UX** — Writing pixel-perfect interfaces tailored for a flawless experience across all device sizes.
-
----
-
-### 🎯 Current Focus & Opportunities
-
-* 💼 **Actively Seeking Roles:** Open to **MERN Stack Developer**, **Full Stack Developer**, or **React Developer** positions.
-* 📈 **Continuous Learning:** Constantly building performance-focused applications to sharpen my engineering skills.
-
 ---
 
 <div align="center">
