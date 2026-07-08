@@ -73,19 +73,21 @@ I bridge the gap between frontend design and backend architecture, ensuring seam
 
 
 <div align="center">
-
 ### 🤝 Let's Connect
-
+ 
 <a href="mailto:manikandaneravanan04@gmail.com">
-  <img src="https://img.shields.io/badge/Email-manikandaneravanan04%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius: 16px; margin: 4px;" />
+  <img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
 </a>
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/manikandaneravanan/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 16px; margin: 4px;" />
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+&nbsp;&nbsp;
 <a href="https://github.com/manikandaneravanan">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius: 16px; margin: 4px;" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
+<br/><br/>
+ 
 <sub>Thanks for stopping by — let's build something extraordinary! ✨</sub>
-
+ 
 </div>
