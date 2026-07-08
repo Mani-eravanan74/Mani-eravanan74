@@ -60,30 +60,7 @@ I bridge the gap between frontend design and backend architecture, ensuring seam
 * ⚡ **API Engineering** — Designing secure, scalable, and efficient RESTful APIs integrated with MongoDB.
 * 📱 **Responsive UI/UX** — Writing pixel-perfect interfaces tailored for a flawless experience across all device sizes.
 
----
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=manikandaneravanan&show_icons=true&theme=tokyonight&locale=en" alt="Manikandan's GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikandaneravanan&layout=compact&theme=tokyonight" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=manikandaneravanan&theme=tokyonight" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
 ### 🎯 Current Focus & Opportunities
 
