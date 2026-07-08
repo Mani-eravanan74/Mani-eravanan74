@@ -6,7 +6,7 @@
 
 # 🚀 Hi there, I'm Manikandan E! 👋
 
-### **MERN Stack Developer | Full Stack Engineer **
+### MERN Stack Developer | Full Stack Engineer
 
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ECC71?style=for-the-badge" alt="Open to Work" style="border-radius: 16px; margin: 4px;" />
 
