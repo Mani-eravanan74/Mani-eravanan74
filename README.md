@@ -70,7 +70,7 @@ I bridge the gap between frontend design and backend architecture, ensuring seam
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="border-radius: 10px; margin: 4px;" />
 
 </div>
----
+
 
 <div align="center">
 
