@@ -38,7 +38,7 @@ I bridge the gap between frontend design and backend architecture, ensuring seam
 
 *   **[SkillTree]** — [A Gamified Habit Tracking/ Task To-Do list/ Personal Skill Development Web application]
     *   *Tech Stack:* React, Tailwind CSS
-    *    [💻 GitHub Repo : https://github.com/Mani-eravanan74/RPL_Task_tracking]
+    *    [💻 GitHub Repo : https://github.com/Mani-eravanan74/SkillTree]
 
 ---
 
