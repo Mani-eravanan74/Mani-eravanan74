@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🚀 Hi there, I'm Manikandan E! 👋
+#  Hello there, I'm Manikandan ! 👋
 
 ### MERN Stack Developer | Full Stack Engineer
 
@@ -68,7 +68,6 @@ I bridge the gap between frontend design and backend architecture, ensuring seam
 
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="border-radius: 10px; margin: 4px;" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius: 10px; margin: 4px;" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" style="border-radius: 10px; margin: 4px;" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="border-radius: 10px; margin: 4px;" />
 
 </div>
